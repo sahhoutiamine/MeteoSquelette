@@ -1,0 +1,43 @@
+{
+  "latitude": 33.5883,
+  "longitude": -7.6114,
+  "generationtime_ms": 0.052,
+  "utc_offset_seconds": 3600,
+  "timezone": "Africa/Casablanca",
+  "timezone_abbreviation": "+01",
+  "elevation": 14.0,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C"
+  },
+  "daily": {
+    "time": [
+      "2026-07-13",
+      "2026-07-14",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-17",
+      "2026-07-18",
+      "2026-07-19"
+    ],
+    "temperature_2m_max": [
+      26.8,
+      27.2,
+      28.5,
+      29.1,
+      28.8,
+      27.9,
+      26.5
+    ],
+    "temperature_2m_min": [
+      18.2,
+      18.5,
+      19.8,
+      20.1,
+      20.0,
+      19.2,
+      18.7
+    ]
+  }
+}
